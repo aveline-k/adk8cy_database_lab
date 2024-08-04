@@ -21,7 +21,7 @@ For example, these actions should not be allowed:
 •	Valid dtypes and same-term formats, no nulls and unique primary keys
 
 8) (5 PTS) Draw and submit a Relational Model for your project. For an example, see Beginning Database Design Solutions page 115 Figure 5-28.
-
+•	See part1_relational_model in repo.
 
 9) (2 PTS) Suppose you were asked if your database could also support the UVA SDS Residential MSDS Program. Explain any issues that might arise, changes to the database structure (schema), and new data that might be needed. Note you won’t actually need to support this use case for the project.
 •	Issues/schema: Avoid redundancy, new table for new data (maintain integrity of existing tables)
