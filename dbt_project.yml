@@ -1,0 +1,6 @@
+# dbt_project.yml
+...
+seeds:
+  my_dbt_project:
+    +schema: seeds
+    enabled: true

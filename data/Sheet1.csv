@@ -1,0 +1,16 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+,,,,,
+,,,,,
+,,,,,
+,,Courses,,,Learning_Outcomes
+,,course_id (PK),,,learning_outcome_id (PK)
+,,course_name,,,course_id (FK)
+,,description,,,description
+,,active,,,active
+,,,,,
+,,,,,Assignments
+,,,,,assignment_id (PK)
+,,Instructors,,,course_id (FK)
+,,instructor_id (PK),,,instructor_id (FK)
+,,instructor_name,,,term
+,,active,,,
